@@ -9,6 +9,7 @@ public class Model {
 		
 		
 		System.out.println("Hello this is demo for GIT");
+		System.out.println("second commit statement");
 		
 	}
 
